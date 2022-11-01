@@ -4,7 +4,7 @@ I'm Murat, a dedicated front-end developer who believes in lifelong learning and
 
 My latest web app: [menüleriz](https://www.menuleriz.com/en)
 
-I’m currently improving my skills about cross-platform mobile development with React Native and unit testing of React apps.
+I’m currently improving my skills about cross-platform mobile development with React Native.
 
 
 ### :hammer_and_wrench: Languages and Tools:

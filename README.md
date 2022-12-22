@@ -32,9 +32,6 @@ I’m currently improving my skills about cross-platform mobile development with
 <a href="https://nodejs.org/en/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
 </a>&nbsp;
-<a href="https://jquery.com/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>
-</a>&nbsp;
 <a href="https://sass-lang.com/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="40" height="40"/>
 </a>&nbsp;

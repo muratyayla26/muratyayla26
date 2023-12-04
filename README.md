@@ -4,10 +4,14 @@ I'm Murat, a dedicated front-end developer who believes in lifelong learning and
 
 My latest web app: [menüleriz](https://www.menuleriz.com/en)
 
-I’m currently improving my skills about cross-platform mobile development with React Native.
+My latest mobile app: SWARMER!
+[App Store](https://apps.apple.com/tr/app/swarmer/id6458870666) - 
+[Google Play](https://play.google.com/store/apps/details?id=com.anonchat&hl=en&gl=US)
+
+I’m currently improving my skills about Web3 within the Solidity ecosystem.
 
 
-### :hammer_and_wrench: Languages and Tools:
+### Languages and Tools:
 
 <div>
 <a href="https://reactjs.org/" target="_blank">
@@ -22,10 +26,13 @@ I’m currently improving my skills about cross-platform mobile development with
 <a href="https://angular.io/" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" title="Angular" alt="Angular" width="40" height="40"/>
 </a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+  <a href="https://soliditylang.org/" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" title="Solidity" alt="Solidity" width="40" height="40"/>
+</a>&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
 <a href="https://graphql.org/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"  title="GraphQL" alt="GraphQL" width="40" height="40"/>
 </a>&nbsp;

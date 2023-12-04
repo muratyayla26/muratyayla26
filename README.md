@@ -3,16 +3,13 @@
 I'm Murat, a dedicated front-end developer who believes in lifelong learning and loves to work for products that add value to people's lives.
 
 My latest web app: <a href="https://www.menuleriz.com/en" target="_blank">
-  menüleriz
-</a>&nbsp;
+  menüleriz</a>&nbsp;
 
 My latest mobile app: SWARMER!
  <a href="https://apps.apple.com/tr/app/swarmer/id6458870666" target="_blank">
-  App Store
-</a> - 
+  App Store</a> - 
  <a href="https://play.google.com/store/apps/details?id=com.anonchat&hl=en&gl=US" target="_blank">
-  Google Play
-</a>&nbsp;
+  Google Play</a>&nbsp;
 
 
 I’m currently improving my skills about Web3 within the Solidity ecosystem.

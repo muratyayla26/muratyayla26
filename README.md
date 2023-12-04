@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Murat, a dedicated front-end developer who believes in lifelong learning and loves to work for products that add value to people's lives.
+I'm Murat, a dedicated frontend developer who believes in lifelong learning and loves to work for products that add value to people's lives.
 
 My latest web app: <a href="https://www.menuleriz.com/en" target="_blank">
   menüleriz</a>&nbsp;

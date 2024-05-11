@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Murat, a dedicated frontend developer who believes in lifelong learning and loves to work for products that add value to people's lives.
+I'm Murat, a dedicated software developer who believes in lifelong learning and loves to work for products that add value to people's lives.
 
 My latest web app: <a href="https://www.menuleriz.com/en" target="_blank">
   menüleriz</a>&nbsp;
@@ -11,8 +11,6 @@ My latest mobile app: SWARMER!
  <a href="https://play.google.com/store/apps/details?id=com.anonchat&hl=en&gl=US" target="_blank">
   Google Play</a>&nbsp;
 
-
-I’m currently improving my skills about Web3 within the Solidity ecosystem.
 
 
 ### Languages and Tools:
@@ -30,6 +28,12 @@ I’m currently improving my skills about Web3 within the Solidity ecosystem.
 <a href="https://angular.io/" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" title="Angular" alt="Angular" width="40" height="40"/>
 </a>&nbsp;
+  <a href="https://www.java.com/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+</a>&nbsp;
+  <a href="https://spring.io/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>
+</a>&nbsp;
   <a href="https://soliditylang.org/" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" title="Solidity" alt="Solidity" width="40" height="40"/>
 </a>&nbsp;
@@ -37,6 +41,10 @@ I’m currently improving my skills about Web3 within the Solidity ecosystem.
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
 <a href="https://graphql.org/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"  title="GraphQL" alt="GraphQL" width="40" height="40"/>
 </a>&nbsp;

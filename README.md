@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Murat, a software developer with 5+ years of experience.<br />
-I love building products that can solve everyday problems. You can see me spending my weekends and evenings learning new things. Recently I’ve been diving into blockchain technology and Java - Spring Boot ecosystem.
+I'm Murat, a senior software developer with 5+ years of experience.<br />
+I love building products that can solve everyday problems. You can see me spending my weekends and evenings learning new things.
 
 My latest web app: <a href="https://www.menuleriz.com/en" target="_blank">
   menüleriz</a>&nbsp;

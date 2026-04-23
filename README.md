@@ -3,15 +3,17 @@
 I'm Murat, a senior software developer with 5+ years of experience.<br />
 I love building products that can solve everyday problems. You can see me spending my weekends and evenings learning new things.
 
-My latest web app: <a href="https://www.menuleriz.com/en" target="_blank">
+Web app: <a href="https://www.menuleriz.com/en" target="_blank">
   menüleriz</a>&nbsp;
 
-My latest mobile app: SWARMER!
+Mobile apps:<br />
+SWARMER!
  <a href="https://apps.apple.com/tr/app/swarmer/id6458870666" target="_blank">
   App Store</a> - 
  <a href="https://play.google.com/store/apps/details?id=com.anonchat&hl=en&gl=US" target="_blank">
+  Google Play</a><br />
+  JustCalorie <a href="https://play.google.com/store/apps/details?id=com.muratyayla26.justcalorie" target="_blank">
   Google Play</a>&nbsp;
-
 
 
 ### Languages and Tools:
